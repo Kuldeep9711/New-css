@@ -1,0 +1,34 @@
+h1{
+    color: maroon;
+}
+input{
+    background-color: cornsilk;
+    color:black
+}
+ ul li a {
+    color: cadetblue;
+}
+
+#login{
+    background-color: yellow;
+}
+.upvote{
+    background-color: skyblue;
+    color: darkblue;
+}
+#myid p{
+    color: blueviolet;
+}
+  
+ .post a {
+    color: white;
+    background-color: darkblue;
+ }
+ p a {
+    color: palevioletred;
+    background-color: black;
+ }
+ p + h3 {
+     text-decoration: underline;
+     
+ }
